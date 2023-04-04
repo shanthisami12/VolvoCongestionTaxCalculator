@@ -1,0 +1,24 @@
+@charset "UTF-8";
+#heading{
+	text-align: center;
+}
+
+#formDiv{
+	display:flex;
+	justify-content: center;
+}
+
+#form{
+	display:table;
+}
+
+#buttonRow{
+	display: block;
+	margin: auto;
+}
+
+#result{
+	display:flex;
+	justify-content: center;
+	text-align : center;
+}
